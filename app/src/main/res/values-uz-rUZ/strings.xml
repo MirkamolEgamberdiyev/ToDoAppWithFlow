@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlowToDoApp</string>
+    <string name="foodname">Oziq-ovqat nomi</string>
+    <string name="price">Narxi</string>
+    <string name="choose_language">Tilni tanlang</string>
+    <string name="uzbek">Uzbek</string>
+    <string name="russian">rus tili</string>
+    <string name="english">Ingliz tili</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="save">Saqlash</string>
+    <string name="add_food">Oziq-ovqat qo\'shing</string>
+    <string name="take_from_list">Ro\'yxatdan olish</string>
+    <string name="food_name">Oziq-ovqat nomi</string>
+    <string name="quantity">miqdori</string>
+    <string name="add">Qo\'shish</string>
+    <string name="balance">Balans</string>
+    <string name="foods_list">Oziq-ovqatlar ro\'yxati</string>
+    <string name="kafe_name">kafe nomi</string>
+    <string name="number_of_people">odamlar soni</string>
+    <string name="menu">menyu</string>
+    <string name="xisob">Xisob</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="history">Tarix</string>
+    <string name="xisob_kitob">Xisob kitob</string>
+    <string name="sin">sin</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10892015362",
+    "project_id": "flowtodoapp-db3d4",
+    "storage_bucket": "flowtodoapp-db3d4.appspot.com"
+  },
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10892015362:android:4b7aecada625b70249b41b",
+        "android_client_info": {
+          "package_name": "com.mirkamol.flowtodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10892015362-mpb0rmkamab41tbo83hi666g5gevlb8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaXEvlddqwlMqZEcR6iP5frpFP0_L4pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10892015362-mpb0rmkamab41tbo83hi666g5gevlb8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

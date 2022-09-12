@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlowToDoApp</string>
+    <string name="foodname">Название еды</string>
+    <string name="price">Цена</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="uzbek">узбекский</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранять</string>
+    <string name="add_food">Добавить еду</string>
+    <string name="take_from_list">Взять из списка</string>
+    <string name="food_name">Название еды</string>
+    <string name="quantity">количество</string>
+    <string name="add">Добавлять</string>
+    <string name="balance">Остаток средств</string>
+    <string name="foods_list">Список продуктов</string>
+    <string name="kafe_name">название кафе</string>
+    <string name="number_of_people">число людей</string>
+    <string name="menu">меню</string>
+    <string name="xisob">Счет</string>
+    <string name="kalkulator">Калькулятор</string>
+    <string name="history">История</string>
+    <string name="xisob_kitob">Бухгалтерская книга</string>
+    <string name="sin">sin</string>
+</resources>

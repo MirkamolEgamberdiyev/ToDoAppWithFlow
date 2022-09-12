@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FlowToDoApp</string>
+    <string name="foodname">FoodName</string>
+    <string name="price">Price</string>
+    <string name="choose_language">Choose language</string>
+    <string name="uzbek">Uzbek</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add_food">Add food</string>
+    <string name="take_from_list">Take from list</string>
+    <string name="food_name">Food name</string>
+    <string name="quantity">quantity</string>
+    <string name="add">Add</string>
+    <string name="balance">Balance</string>
+    <string name="foods_list">Foods List</string>
+    <string name="kafe_name">kafe name</string>
+    <string name="number_of_people">number of people</string>
+    <string name="menu">menu</string>
+    <string name="xisob">Account</string>
+    <string name="kalkulator">Calculator</string>
+    <string name="history">History</string>
+    <string name="xisob_kitob">Accounting book</string>
+    <string name="sin">sin</string>
+</resources>
